@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vighnesh-bhat/word-search-game.git/static/css/main.09fd3f70.css",
+    "main.js": "/Vighnesh-bhat/word-search-game.git/static/js/main.b2233f28.js",
+    "static/js/453.af6e0ee2.chunk.js": "/Vighnesh-bhat/word-search-game.git/static/js/453.af6e0ee2.chunk.js",
+    "index.html": "/Vighnesh-bhat/word-search-game.git/index.html",
+    "main.09fd3f70.css.map": "/Vighnesh-bhat/word-search-game.git/static/css/main.09fd3f70.css.map",
+    "main.b2233f28.js.map": "/Vighnesh-bhat/word-search-game.git/static/js/main.b2233f28.js.map",
+    "453.af6e0ee2.chunk.js.map": "/Vighnesh-bhat/word-search-game.git/static/js/453.af6e0ee2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09fd3f70.css",
+    "static/js/main.b2233f28.js"
+  ]
+}
