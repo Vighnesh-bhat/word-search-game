@@ -22,7 +22,7 @@ const Game = () => {
             <div className='header'>
                 <Score score={score}/>
                 <WordDisplay word={wordList[currentWordIndex]} />
-                <Timer key={timerKey} duration={1} onTimeUp={moveToNextWord} />
+                <Timer key={timerKey} duration={30} onTimeUp={moveToNextWord} />
             </div>
             <Grid highlightedCells={highlightedCells} tempGrid={tempGrid} isFound={isFound}/>
         </div>
